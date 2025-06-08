@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Data Scientist 🚀 skilled in statistical modeling, deep learning, Python, SQL, and cloud platforms with experience in building end-to-end ML solutions that extract insights, optimize processes, and support strategic decisions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1u6xhe5NxaUs2mSFHQepuICSY6mmq9u28/view?usp=sharing", // Replace with your actual resume link
+    "https://drive.google.com/file/d/1u6xhe5NxaUs2mSFHQepuICSY6mmq9u28/view?usp=sharing", // Your updated resume link
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -321,7 +321,7 @@ const achievementSection = {
       imageAlt: "WorldQuant University Logo",
       footerLink: [
         {
-          name: "Certification", 
+          name: "Certification",
           url: "https://your-worldquant-certification-link" // Update with actual certification link
         }
       ]
